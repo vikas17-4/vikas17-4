@@ -53,8 +53,6 @@ class SecurityResearcher:
 
 ## 🛡️ Cybersecurity Focus Areas
 
-<div align="center">
-
 | 🔴 Offensive Security | 🔵 Defensive Security | 🟡 Research & Analysis |
 |:---:|:---:|:---:|
 | Penetration Testing | Threat Detection | Vulnerability Research |
@@ -70,21 +68,20 @@ class SecurityResearcher:
 ## 🧰 Tools & Technologies
 
 ### 🖥️ Operating Systems
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux]
+![Parrot OS]
+![Ubuntu]
+![Windows]
 
 ### 🔧 Security Tools
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
+1.Nmap]
+2.Metasploit]
+3.Burp Suite]
+4.Wireshark]
+5.OWASP
 ### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python]
+![Bash]
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -177,13 +174,11 @@ class SecurityResearcher:
 
 [![Email](https://img.shields.io/badge/Email-didlavikas764%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:didlavikas764@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vikas17--4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas17-4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-security/)
+/in/vikas-security/)
 
-</div>
 
 ---
 
-<div align="center">
 
 ```
 > "The quieter you become, the more you are able to hear." — Kali Linux motto
